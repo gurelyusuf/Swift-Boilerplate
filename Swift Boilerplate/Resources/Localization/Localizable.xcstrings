@@ -1,0 +1,33 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "•" : {
+
+    },
+    "□" : {
+
+    },
+    "Features" : {
+
+    },
+    "Highlights" : {
+
+    },
+    "This is a template for monolitic iOS apps using the MVVM (Model-View-ViewModel) pattern combined with some Clean Architecture principles." : {
+
+    },
+    "Upcoming" : {
+
+    },
+    "Upcoming Features" : {
+
+    },
+    "Welcome" : {
+
+    },
+    "Welcome to Swift Monolitic Boilerplate!" : {
+
+    }
+  },
+  "version" : "1.0"
+}
