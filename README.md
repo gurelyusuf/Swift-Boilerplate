@@ -41,7 +41,6 @@ Swift Boilerplate
 └── Resources
     ├── Styling
     └── Localization
-
 ```
 
 ### Requirements
